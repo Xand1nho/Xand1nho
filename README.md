@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Desenvolvedor de Sistemas em Formação | Robótica & Programação
 
-Atualmente eu sou estudante do curso técnico de Desenvolvimento de Sistemas no [**Instituto FORJA**][(https://institutoforja.org.br/)](https://forja.org.br/) em parceria com o [**SENAI**](https://www.senaipr.org.br/). Sou apaixonado por tecnologias, robótica e por resolver problemas através do código.
+Atualmente eu sou estudante do curso técnico de Desenvolvimento de Sistemas no [**Instituto FORJA**]([https://institutoforja.org.br/](https://forja.org.br/)) em parceria com o [**SENAI**](https://www.senaipr.org.br/). Sou apaixonado por tecnologias, robótica e por resolver problemas através do código.
 
 ---
 
@@ -27,4 +27,15 @@ Atualmente eu sou estudante do curso técnico de Desenvolvimento de Sistemas no 
 ### 📈 Estatísticas do GitHub
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xand1nho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xand1nho&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+---
+
+### 📫 Onde me encontrar
+- **Portfólio Oficial:** [portfolio-xande.vercel.app](https://portfolio-xande.vercel.app)
+- **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/alexandre-souza-santos-b87487395/)
+- **Instagram:** [@xandpe](https://www.instagram.com/xandpe/)
+
+---
+"Tento ser uma pessoa legal e estou sempre buscando evoluir."
