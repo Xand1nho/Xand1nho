@@ -7,7 +7,7 @@ Atualmente eu sou estudante do curso técnico de Desenvolvimento de Sistemas no 
 ---
 
 ### 🚀 Sobre Mim
-- 📚 Estudando **React Native, Expo, TypeScript, Python e Linguagem C**.
+- 📚 Aprendendo **React Native, Expo, TypeScript, Python e Linguagem C**.
 - 🤖 Entusiasta de robótica e eletrônica (Hardware + Software).
 - 🎯 Focado em aprender boas práticas de programação e trabalho em equipe.
 - 👴 Gosto de ouvir e aprender com quem tem mais experiência na área.
