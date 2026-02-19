@@ -32,4 +32,3 @@ Atualmente eu sou estudante do curso técnico de Desenvolvimento de Sistemas no 
 - **Instagram:** [@xandpe](https://www.instagram.com/xandpe/)
 
 ---
-"Tento ser uma pessoa legal e estou sempre buscando evoluir."
