@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Desenvolvedor de Sistemas em Formação | Robótica & Programação
 
-Atualmente eu sou estudante do curso técnico de Desenvolvimento de Sistemas no [**Instituto FORJA**](https://forja.org.br/com) em parceria com o [**SENAI**](https://www.senaipr.org.br/). Fico entusiasmado por tecnologias, robótica e por resolver problemas através do código.
+Atualmente eu sou estudante do curso técnico de Desenvolvimento de Sistemas no [**Instituto FORJA**]em parceria com o [**SENAI**](https://www.senaipr.org.br/). Fico entusiasmado por tecnologias, robótica e por resolver problemas através do código.
 
 ---
 
