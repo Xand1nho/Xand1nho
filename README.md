@@ -27,7 +27,6 @@ Atualmente eu sou estudante do curso técnico de Desenvolvimento de Sistemas no 
 ---
 
 ### 📫 Onde me encontrar
-- **Portfólio Oficial:** [portfolio-xande.vercel.app](https://portfolio-xande.vercel.app)
 - **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/alexandre-souza-santos-b87487395/)
 - **Instagram:** [@xandpe](https://www.instagram.com/xandpe/)
 
